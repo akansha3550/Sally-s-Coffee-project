@@ -1,4 +1,4 @@
-# Sally-s-Coffee-project
+# Sally's-Coffee-project
 
 # Overview
 Sally’s Coffee Dashboard is an interactive web application designed to visualize sales data and customer preferences for Sally's Coffee, one of the largest coffee roasteries and online retailers in the U.S. The dashboard provides insights into sales trends by ZIP code, coffee preferences among customers, and overall sales performance over time.
